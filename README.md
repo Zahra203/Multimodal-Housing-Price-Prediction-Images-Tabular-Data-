@@ -26,5 +26,5 @@ Predict housing prices using **both**:
   ## File Structure
   - House Prediction(tabular+Images).ipynb
   - House Price Prediction Dataset.csv
-  - archive (9).zip (which contain image dataset)
+  - labels.csv (which contain image dataset)
 
